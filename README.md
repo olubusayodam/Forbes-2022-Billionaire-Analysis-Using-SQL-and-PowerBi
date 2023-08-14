@@ -1,0 +1,1 @@
+# Forbes-2022-Billionaire-Analysis-Using-SQL-and-PowerBi
