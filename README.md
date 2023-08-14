@@ -44,7 +44,7 @@ The dataset used will be attached to this repository
 
 ### Findings:
 
-1. The age distribution among employees billionaires reveal that the youngest billionaire is 19 years old, while the oldest is 100 years old.
+1. The age distribution among billionaires reveal that the youngest billionaire is 19 years old, while the oldest is 100 years old.
 2. A majority of billionaires in the dataset are male.
 3. The source of wealth "Finance and Investment" has the highest representation among billionaires.
 4. The United States has the highest number of billionaires, followed by China and India.
