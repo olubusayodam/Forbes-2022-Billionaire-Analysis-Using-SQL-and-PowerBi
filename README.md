@@ -11,7 +11,7 @@ The dataset used will be attached to this repository
 2 PowerBi- Data Visualization
 
 <div align="center">
-  <img src="" alt="pix">
+  <img src="https://github.com/olubusayodam/Forbes-2022-Billionaire-Analysis-Using-SQL-and-PowerBi/blob/main/forbes.PNG" alt="pix">
 </div>
 
 -----
