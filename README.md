@@ -10,6 +10,9 @@ The dataset used will be attached to this repository
 
 2 PowerBi- Data Visualization
 
+<div align="center">
+  <img src="" alt="pix">
+</div>
 
 -----
 # Questions
