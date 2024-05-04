@@ -2,7 +2,7 @@
 # Forbes-2022-Billionaire-Analysis-Using-SQL-and-PowerBi
 The Forbes 2022 Billionaires Power BI Dashboard is a data visualization project that analyzes the Forbes billionaire dataset for the year 2022. The project aims to provide insights into various aspects of billionaire demographics, wealth distribution, industries, and more. The dashboard is built using Power BI and offers interactive visualizations to explore and understand the data.
 
-The dataset used will be attached to this repository
+The dataset used is attached to this repository
 
 ----
 # Tools Used
